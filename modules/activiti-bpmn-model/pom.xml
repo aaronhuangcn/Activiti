@@ -5,6 +5,7 @@
 
   <name>Activiti - BPMN Model</name>
   <artifactId>activiti-bpmn-model</artifactId>
+  <version>5.13.1-kft</version>
 
   <parent>
     <groupId>org.activiti</groupId>

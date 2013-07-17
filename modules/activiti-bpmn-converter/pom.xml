@@ -5,6 +5,7 @@
 
   <name>Activiti - BPMN Converter</name>
   <artifactId>activiti-bpmn-converter</artifactId>
+  <version>5.13.1-kft</version>
 
   <parent>
     <groupId>org.activiti</groupId>

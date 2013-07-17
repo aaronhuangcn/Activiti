@@ -5,6 +5,7 @@
 
 	<name>Activiti - BPMN Layout</name>
 	<artifactId>activiti-bpmn-layout</artifactId>
+    <version>5.13.1-kft</version>
 
 	<parent>
 		<groupId>org.activiti</groupId>
